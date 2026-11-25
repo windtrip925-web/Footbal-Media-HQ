@@ -1,2 +1,2 @@
-# Footbal-Media-HQ
+# FOOTBALL-MEDIA-HQ
 Media Sepakbola
